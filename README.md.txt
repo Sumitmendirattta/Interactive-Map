@@ -1,1 +1,0 @@
-Provides an Interactive Map of  SJSU On User Click
